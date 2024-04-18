@@ -16,3 +16,10 @@ https://link.springer.com/chapter/10.1007/978-3-540-30310-7_1
 [https://github.com/lenstronomy/lenstronomy](https://github.com/lenstronomy/lenstronomy)
 
 [https://lenstronomy.readthedocs.io/en/stable/installation.html](https://lenstronomy.readthedocs.io/en/latest/)
+
+#### 💫 Light curves
+
+[https://github.com/light-curve/light-curve](https://github.com/light-curve/light-curve)
+
+[https://github.com/light-curve/light-curve-python](https://github.com/light-curve/light-curve-python)
+
