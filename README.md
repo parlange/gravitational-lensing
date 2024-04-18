@@ -27,7 +27,7 @@ https://link.springer.com/chapter/10.1007/978-3-540-30310-7_1
 
 [LEXACTUM](https://github.com/DanielMagro97/LEXACTUM)
 
-[CMUDeepLens](https://github.com/McWilliamsCenter/CMUDeepLens)
+[cmu_deeplens](https://github.com/McWilliamsCenter/CMUDeepLens)
 
 [cas_swinbourne](https://academic.oup.com/mnras/article/471/1/167/3868797)
 
@@ -35,7 +35,7 @@ https://link.springer.com/chapter/10.1007/978-3-540-30310-7_1
 
 [lens_finder](https://emergent-scientist.edp-open.org/articles/emsci/full_html/2018/01/emsci170005/emsci170005.html)
 
-[LensFlow](https://github.com/Miladiouss/LensFlow)
+[lens_flow](https://github.com/Miladiouss/LensFlow)
 
 [wsi-net](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_5)
 
