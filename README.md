@@ -23,12 +23,21 @@ https://link.springer.com/chapter/10.1007/978-3-540-30310-7_1
 
 [https://github.com/light-curve/light-curve-python](https://github.com/light-curve/light-curve-python)
 
-#### 🔭 Lens Detectors
+#### 🔭 Lens Detectors. Bologna Strong Lensing Challenge
 
-[https://github.com/McWilliamsCenter/CMUDeepLens](https://github.com/McWilliamsCenter/CMUDeepLens)
+[LEXACTUM](https://github.com/DanielMagro97/LEXACTUM)
 
-[https://github.com/Miladiouss/LensFlow](https://github.com/Miladiouss/LensFlow)
+[CMUDeepLens](https://github.com/McWilliamsCenter/CMUDeepLens)
 
-[https://github.com/DanielMagro97/LEXACTUM](https://github.com/DanielMagro97/LEXACTUM)
+[cas_swinbourne](https://academic.oup.com/mnras/article/471/1/167/3868797)
+
+[lastro_epfl](https://arxiv.org/abs/1705.07132)
+
+[lens_finder](https://emergent-scientist.edp-open.org/articles/emsci/full_html/2018/01/emsci170005/emsci170005.html)
+
+[LensFlow](https://github.com/Miladiouss/LensFlow)
+
+[wsi-net](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_5)
+
 
 
