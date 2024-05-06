@@ -15,7 +15,7 @@ https://link.springer.com/chapter/10.1007/978-3-540-30310-7_1
 #### 🔍 Lenstronomy
 [https://github.com/lenstronomy/lenstronomy](https://github.com/lenstronomy/lenstronomy)
 
-[https://lenstronomy.readthedocs.io/en/stable/installation.html](https://lenstronomy.readthedocs.io/en/latest/)
+[https://lenstronomy.readthedocs.io/](https://lenstronomy.readthedocs.io/)
 
 #### 💫 Light curves
 
