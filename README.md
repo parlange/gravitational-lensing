@@ -14,6 +14,7 @@ https://link.springer.com/chapter/10.1007/978-3-540-30310-7_1
 
 #### 📘 Notes by Robin Ciardullo
 [First PDF](https://github.com/parlange/gravitational-lensing/blob/main/ciardullo/lec10.pdf)
+
 [Second PDF](https://github.com/parlange/gravitational-lensing/blob/main/ciardullo/lec11.pdf)
 
 #### 🔍 Lenstronomy
