@@ -12,7 +12,7 @@ https://github.com/maxmen/LensingLectures
 #### 📘 Gravitational Lensing: Strong, Weak and Micro by Peter Schneider, Christopher S. Kochanek, and Joachim Wambsganss
 https://link.springer.com/chapter/10.1007/978-3-540-30310-7_1
 
-#### 📘 Notes by Robin Ciardullo
+#### 📓 Notes by Robin Ciardullo
 [https://github.com/parlange/gravitational-lensing/tree/master/Ciardullo/lec10.pdf](https://github.com/parlange/gravitational-lensing/tree/master/Ciardullo/lec10.pdf)
 
 [https://github.com/parlange/gravitational-lensing/tree/master/Ciardullo/lec11.pdf](https://github.com/parlange/gravitational-lensing/tree/master/Ciardullo/lec11.pdf)
