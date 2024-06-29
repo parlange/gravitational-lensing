@@ -13,9 +13,10 @@ https://github.com/maxmen/LensingLectures
 https://link.springer.com/chapter/10.1007/978-3-540-30310-7_1
 
 #### 📘 Notes by Robin Ciardullo
-[https://github.com/parlange/gravitational-lensing/blob/main/Ciardullo/lec10.pdf](https://github.com/parlange/gravitational-lensing/blob/main/Ciardullo/lec10.pdf)
+[https://github.com/parlange/gravitational-lensing/tree/master/Ciardullo/lec10.pdf](https://github.com/parlange/gravitational-lensing/tree/master/Ciardullo/lec10.pdf)
 
-[https://github.com/parlange/gravitational-lensing/blob/main/Ciardullo/lec11.pdf](https://github.com/parlange/gravitational-lensing/blob/main/Ciardullo/lec11.pdf)
+[https://github.com/parlange/gravitational-lensing/tree/master/Ciardullo/lec11.pdf](https://github.com/parlange/gravitational-lensing/tree/master/Ciardullo/lec11.pdf)
+
 
 #### 🔍 Lenstronomy
 [https://github.com/lenstronomy/lenstronomy](https://github.com/lenstronomy/lenstronomy)
